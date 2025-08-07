@@ -167,25 +167,9 @@ This foundational model enables the entire reporting structure to work seamlessl
 
 ### 7. Project Folder Structure
 
-Sales_Data_Analysis_PowerBI/
-│
-├── images/ # Power BI dashboard screenshots
-│ ├── Overview.png
-│ ├── Top_and_Bottom_5_Products_by_Sales_Profit_Quantity.png
-│ ├── Total_Sales_by_Years_Months_Days.png
-│ ├── Compare_Sales_Profit_Quantity.png
-│ ├── Compare_Sales_Profit_Quantity_2.png
-│ ├── Table_visual.png
-│ ├── Data_tables.png
-│ └── Model_view.png
-│
-├── data/ # Dataset used in the project
-│ └── Store Data.xlsx
-│
-├── pbix/ # Power BI project file
-│ └── Sales_Data_Analysis.pbix
-│
-└── README.md # Project documentation
+The project is organized in a clean and modular way, as shown below:
+
+![Project Structure](images/Project_structure.png)
 
 
 This structure ensures clear organization of the project components — from raw data to dashboards and documentation — for easy access and maintenance.
